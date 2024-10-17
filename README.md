@@ -1,4 +1,4 @@
-# **TrollShop Sa-mp Cheats Scanner & Webhook Notifier**
+# **TrollShop SA-MP Cheats Scanner & Webhook Notifier**
 
 TrollShop's Samp Cheats file scanning tool, designed to efficiently search for specific file types across your system and send the results directly to a Discord webhook. Built with high-performance multithreading and asynchronous operations, this tool is designed to minimize system load while performing extensive file searches.
 
