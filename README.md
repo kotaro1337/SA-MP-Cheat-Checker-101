@@ -94,5 +94,5 @@ This tool is designed for legitimate use cases. Ensure you comply with all appli
 
 If you discover any bugs, or would like to request a feature or improvement, feel free to submit an issue or a pull request.
 
--                   Made with ❤️ by Kotaro1337.**
+-                   Made with ❤️ by Kotaro1337.
 [![Discord Presence](https://lanyard.cnrad.dev/api/871257848804442202)](https://discord.com/users/871257848804442202)
