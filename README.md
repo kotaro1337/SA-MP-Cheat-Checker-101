@@ -43,9 +43,8 @@ Follow these steps to run the file scanner:
 
    The script provides you with four options for file scanning:
    - `1` → Scan for `.luac` files
-   - `2` → Scan for `.asi` files
-   - `3` → Scan for `.cs` files
-   - `4` → Scan for all file types (`.lua`, `.luac`, `.asi`, `.cs`)
+   - `2` → Scan for `.cs` files
+   - `3` → Scan for all file types (`.lua`, `.luac`,  `.cs`)
 
 4. **Results & Logging**:
    - The results are saved to a log file named `TrollShop-Checker-Kotaro1337.txt`.
@@ -57,13 +56,23 @@ Follow these steps to run the file scanner:
 ```bash
 Discord Webhook: https://discord.com/api/webhooks/xxxxxxxxx
 1. .luac
-2. .asi
-3. .cs
-4. All (.lua, .luac, .asi, .cs)
+2. .cs
+3. All (.lua, .luac, .cs)
 
-Choose an option (1-4): 4
+Choose an option (1-3): 3
 
-Scanning complete. Total files found: 25
+```bash
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\kotaro ddos samp.lua
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\nds.luac
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\neega slapper.lua
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\sampballas.lua
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\cleo\roleplay_guns.cs
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\patayka.lua
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\cleo\Switz_Hot.cs
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonlfoader\suntok-antiskid.luac
+Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\cleo\Use_any_car.cs
+```
+Scanning complete. Total files found: 9
 File successfully sent to the webhook.
 ```
 
