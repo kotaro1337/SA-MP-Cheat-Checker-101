@@ -58,9 +58,9 @@ Discord Webhook: https://discord.com/api/webhooks/xxxxxxxxx
 1. .luac
 2. .cs
 3. All (.lua, .luac, .cs)
-
 Choose an option (1-3): 3
-
+```
+## SAMPLE LOGS:
 ```bash
 Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\kotaro ddos samp.lua
 Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\nds.luac
@@ -71,7 +71,6 @@ Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonloader\patayka.lua
 Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\cleo\Switz_Hot.cs
 Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\moonlfoader\suntok-antiskid.luac
 Found: C:\Users\Kotaro1337\Downloads\R.gta Modified\cleo\Use_any_car.cs
-```
 Scanning complete. Total files found: 9
 File successfully sent to the webhook.
 ```
